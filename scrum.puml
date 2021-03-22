@@ -1,0 +1,83 @@
+@startmindmap scrum
++ Scrum
+++ Scrum Team
++++_ 5~9人
++++ SM
+++++_ Scrum Master
+++++_ Scrum 導師
+++++_ 確保Scrum被了解和實行
++++ PO
+++++_ Product Owner
+++++_ 產品負責人
+++++_ Decide What
+++++_ 決定產品方向，負責產品成敗
++++ Dev Team
+++++_ Development Team
+++++_ 開發團隊
+++++_ Decide How
+
+++ Product
++++ Product Backlog
+++++_ 產品代辦列表
+++++_ PO 產品願景圖
+++++ Item (User Story)
++++++ Task
++++++_ Dev Team 決定達成 Item 所需要的工作列表
++++ Sprint
+++++_ 衝刺
+++++_ 固定時間
+++++_ 1~4週, 一般來說不超過2週
+
+++ Stakeholder
++++_ 利害關係人
++++_ 「有權利」可以否決產品的人
+++++_ 業務方
+++++_ 客戶
+++++_ 股東
+++++_ 老闆
++++_ Scrum Team & QA Team 除外
+
+-- Meeting
+---_ Scrum Team 全員參與的會議
+--- Daily Stand Meeting
+---- 時間
+-----_ 每天早上
+-----_ 15分鐘內
+-----_ 緊急時考慮早晚各一次
+---- 目的
+-----_ 保持團隊資訊透明同步
+---- 輪流發言
+-----_ 3分鐘內
+-----_ 昨天 [做了什麼] 
+-----_ 今天 [預計做什麼]
+-----_ 阻礙 [遇到什麼問題]
+------_ 3分鐘不能解決 [會後討論]
+
+--- Planning Meeting
+---- 時間
+-----_ Sprint 開始前
+-----_ 週一 or 週五
+-----_ 1 天
+---- 目的
+-----_ 讓全Team了解需求
+---- 內容
+-----_ PO 說明 User Story
+-----_ 將 User Story 拆分成 Task
+-----_ 排出最重要的任務
+-----_ Dev Team 了解需求
+-----_ Dev Team 估計
+
+--- Demo Meeting
+---- 時間
+-----_ 開發結束
+-----_ Sprint結束前
+-----_ 1~2小時
+---- 目的
+-----_ 展現開發成果給PO看
+-----_ PO或業務方給予意見
+-----_ 重點項目可找業務方一起
+
+--- Retrospective Meeting
+----_ 回顧會議
+
+@endmindmap
